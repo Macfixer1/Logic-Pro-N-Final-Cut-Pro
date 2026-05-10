@@ -1,7 +1,8 @@
 # Logic-Pro-N-Final-Cut-Pro
 Logic Pro and Final Cut Pro free trials from when they were last available since late 2025.
 
-<img width="204" height="206" alt="john" src="" />
+<img width="204" height="206" alt="john" src="https://github.com/user-attachments/assets/88f9c39c-d7c1-4b38-adf3-b5f28298d7c8" /> <img width="216" height="215" alt="nal" src="https://github.com/user-attachments/assets/bbdfddfd-e031-49fd-adbd-e149341d609e" />
+
 
 
 THE COMPLETE HISTORY OF LOGIC PRO & FINAL CUT PRO FREE TRIALS (2002–2026)
